@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cec46159-43e1-420f-8b25-da5661c8a017</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e6a6499a-4c09-4a11-9015-c6c2d4fe260f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Record and playback Data File/DF_Category</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e6a6499a-4c09-4a11-9015-c6c2d4fe260f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>category</value>
+      <variableId>d4f8cd61-8210-4e3c-9630-4eb5df6e41e9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e6a6499a-4c09-4a11-9015-c6c2d4fe260f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>item</value>
+      <variableId>7772a22f-4178-4d56-8965-339b8f06211c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d4f8cd61-8210-4e3c-9630-4eb5df6e41e9</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7772a22f-4178-4d56-8965-339b8f06211c</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>

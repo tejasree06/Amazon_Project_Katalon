@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_Manual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3fabb8-cd87-4974-928e-656236726489</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a92d46d0-f018-470a-ab34-cb4264ca5773</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Manual Internal Data/DFM_Login</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a92d46d0-f018-470a-ab34-cb4264ca5773</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>4fee8691-de4a-4454-a14f-a8a812883bcb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a92d46d0-f018-470a-ab34-cb4264ca5773</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>146bfad4-e3c3-433d-b48e-13c1f6c85ebc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fee8691-de4a-4454-a14f-a8a812883bcb</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>146bfad4-e3c3-433d-b48e-13c1f6c85ebc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

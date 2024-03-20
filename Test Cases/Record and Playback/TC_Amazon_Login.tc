@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a904f5d-98ad-4a7d-afb4-a970419cdda8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2d5ed51d-e53c-41cb-960f-a26930cb277a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Record and playback Data File/DF_Amazon_login_01</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2d5ed51d-e53c-41cb-960f-a26930cb277a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>ac19aeeb-fe26-4a6a-8052-ae105e3d74ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2d5ed51d-e53c-41cb-960f-a26930cb277a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>35f6d156-712c-4927-b4bc-e275874608b4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac19aeeb-fe26-4a6a-8052-ae105e3d74ea</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>35f6d156-712c-4927-b4bc-e275874608b4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

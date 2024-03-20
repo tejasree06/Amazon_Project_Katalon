@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Category_Mamual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87b87af6-2ef9-43b1-974c-e75e2c3a3e7f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8719ab17-4922-4194-a2da-9b32ecd6cd08</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Manual Internal Data/DFM_Category</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8719ab17-4922-4194-a2da-9b32ecd6cd08</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>category</value>
+      <variableId>a58ccd2d-4163-41fa-80a4-b7363600723d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>8719ab17-4922-4194-a2da-9b32ecd6cd08</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>item</value>
+      <variableId>de103034-187e-4f3f-85d6-4fd517582eaa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a58ccd2d-4163-41fa-80a4-b7363600723d</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>de103034-187e-4f3f-85d6-4fd517582eaa</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>

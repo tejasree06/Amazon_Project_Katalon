@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dff1210-aed2-4a4c-911d-6e8cdf755bc8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>cd06760c-5d4f-4194-b9f6-d60ea5ee8fb1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DF_Amazon_Location_02</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>cd06760c-5d4f-4194-b9f6-d60ea5ee8fb1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>zipcode</value>
+      <variableId>588b8489-66cc-4f1c-ad6a-b0ca8b94bae6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>588b8489-66cc-4f1c-ad6a-b0ca8b94bae6</id>
+      <masked>false</masked>
+      <name>zipcode</name>
+   </variable>
+</TestCaseEntity>
