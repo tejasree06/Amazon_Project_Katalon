@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Amazon_category</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>253658a5-aee1-44ed-8ef8-c3744024249c</testSuiteGuid>
+   <testCaseLink>
+      <guid>98c31ffb-3bb2-4437-bb6f-181d1e6a1ace</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Manual/TC_Category_Mamual</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3e77af08-3aaa-4b90-96a1-804a5bac4664</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Manual Internal Data/DFM_Category</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3e77af08-3aaa-4b90-96a1-804a5bac4664</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>category</value>
+         <variableId>a58ccd2d-4163-41fa-80a4-b7363600723d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3e77af08-3aaa-4b90-96a1-804a5bac4664</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>item</value>
+         <variableId>de103034-187e-4f3f-85d6-4fd517582eaa</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
